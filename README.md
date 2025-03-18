@@ -1,5 +1,5 @@
 # 💫 About Me:   
-⚒️I'm currently working on Java and Web Application <br>👯I'm looking to collaborate on project<br>🤝I'm looking for help with Backend services<br>🌱I'm currently learning DSA in java <br>🧠Ask me about any thing <br>
+⚒️I'm currently working on Java and Web Application <br>👯I'm looking to collaborate on project<br>🤝I'm looking for help with Backend services<br>🌱I'm currently learning DSA in java <br>🧠Ask me about any thing <br> I have done 100days leetcode challenge <br> I have done 30days 30projects using javascript <br> 
     
 ## 🌐 Socials:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khushal-parmar-892a7522b/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/beKhushal) 
